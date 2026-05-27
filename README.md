@@ -18,5 +18,5 @@ I work across the full stack on data-intensive backend systems and automation to
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/vjyrkka"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" /></a>
+<a href="https://www.linkedin.com/in/vjyrkka"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="32" /></a>
 
