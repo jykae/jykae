@@ -18,5 +18,5 @@ I work across the full stack on data-intensive backend systems and automation to
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/vjyrkka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vjyrkka)
 
