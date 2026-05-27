@@ -16,3 +16,7 @@ I work across the full stack on data-intensive backend systems and automation to
 
 **Infra** — Kubernetes · Helm · Terraform · Docker
 
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/vjyrkka)
+
